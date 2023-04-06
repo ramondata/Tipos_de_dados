@@ -6,6 +6,7 @@ In Python there is some types usually used for the community.
 - int
 - str
 - float
+- bool
 - chr
 
 When we use data, is necessary save this in some place. One way to save data is inside memory RAM.
@@ -36,22 +37,16 @@ Look this example:
 Let`s follow some examples of variables
 >>> count_books_on_table = 45
 
->>> 
+>>> more_than_one_object = True
 
->>>
+>>> full_name = "Ramon Barbosa"
 
->>>
+>>> is_greater_than = 30 >= 20
 
->>>
+>>> price = 444.89
 
->>>
+We can just cast a variable with some data type to anothe data type. Follow the example below:
 
->>>
+>>> my_age = '30'
 
->>>
-
->>>
-
->>>
-
->>>
+>>> my_age_cast = int(my_age)
