@@ -45,8 +45,30 @@ Let`s follow some examples of variables
 
 >>> price = 444.89
 
-We can just cast a variable with some data type to anothe data type. Follow the example below:
+We can just cast a variable with some data type to another data type. Follow the examples below:
 
 >>> my_age = '30'
 
 >>> my_age_cast = int(my_age)
+
+>>> size = '1.745'
+
+>>> size_cast = float(size)
+
+An important point about create a variable is the format the name of it.
+There`s some kind of cases to do it; 
+
+- camel case
+- snake case
+- pascal case
+- kebab case
+
+[x] Camel Case:
+The words stay together and the first character is upper case, except the first word in variable.
+
+Example:
+
+>>> macBookIsVeryBeauty = 'some text'
+
+>>> myWifeIsVeryHungry = False
+
