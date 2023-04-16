@@ -1,3 +1,4 @@
+![type_data]()
 Data types in Python language 🐍
 ======================
 
