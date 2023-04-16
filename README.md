@@ -1,4 +1,5 @@
-![type_data]()
+   ![type_data](https://github.com/ramondata/Tipos_de_dados/blob/master/david-clode-vb-3qEe3rg8-unsplash.jpg)
+
 Data types in Python language 🐍
 ======================
 
