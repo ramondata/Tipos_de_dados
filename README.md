@@ -99,5 +99,7 @@ Worlds with delimiter dash and everything with upper case or everything with low
 
 >>>  kebab-is-nice = 'good'
 
+The conventional case used in Python is snake case with lower case for the variables. Keep the name of variables simple and verbose if necessary.
+==================
 
 In this repository, you can watch some list of example of variables for each data type.
