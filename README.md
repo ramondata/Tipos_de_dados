@@ -98,3 +98,6 @@ Worlds with delimiter dash and everything with upper case or everything with low
 >>> THE-WORLD = 10
 
 >>>  kebab-is-nice = 'good'
+
+
+In this repository, you can watch some list of example of variables for each data type.
