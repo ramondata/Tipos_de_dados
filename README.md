@@ -64,7 +64,7 @@ There`s some kind of cases to do it;
 - kebab case
 
 [x] Camel Case:
-The words stay together and the first character is upper case, except the first word in variable.
+The words stay together and the first character of each word is upper case, except the first word in variable.
 
 Example:
 
@@ -72,3 +72,27 @@ Example:
 
 >>> myWifeIsVeryHungry = False
 
+[x] Snake case:
+The words are separeted with underline, everything with upper case or everything with lower case
+
+Example:
+
+>>> some_words_here = 1
+
+>>> SNAKE_CASE_I_USE_OFTEN = 2
+
+[x] Pascal Case:
+The words stay together and the first character of each word is upper case, included the first word.
+
+Example:
+
+>>> FirstWordUpperTo = 'sun is beautifull'
+
+>>> TheHelloWorldHere = 'Hello World'
+
+[x] Kebab Case
+Worlds with delimiter dash and everything with upper case or everything with lower case.
+
+>>> THE-WORLD = 10
+
+>>>  kebab-is-nice = 'good'
