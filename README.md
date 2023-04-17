@@ -1,17 +1,15 @@
    ![type_data](https://github.com/ramondata/Tipos_de_dados/blob/master/david-clode-vb-3qEe3rg8-unsplash.jpg)
 
-Data types in Python language 🐍
+*Data types in Python language* 🐍
 ======================
 
 In Python there is some types usually used for the community.
 
-```
-- int
-- str
-- float
-- bool
-- chr
-```
+- int: `it's a number integer`
+- str: `it's a sequence of words/text`
+- float: `it's a decimal number`
+- bool: `it's a binary data like yes or not`
+- chr: `it's just a character`
 
 When we use data, is necessary save this in some place. One way to save data is inside memory RAM.
 For do it, we need build a way to access that data. In this case, we create a variable wich work like a reference.
