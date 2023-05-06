@@ -1,4 +1,12 @@
-   ![type_data](https://github.com/ramondata/Tipos_de_dados/blob/master/david-clode-vb-3qEe3rg8-unsplash.jpg)
+```
+       __      __           __                       
+  ____/ /___ _/ /_____ _   / /___  ______  ___  _____
+ / __  / __ `/ __/ __ `/  / __/ / / / __ \/ _ \/ ___/
+/ /_/ / /_/ / /_/ /_/ /  / /_/ /_/ / /_/ /  __(__  ) 
+\__,_/\__,_/\__/\__,_/   \__/\__, / .___/\___/____/  
+                            /____/_/                 
+```
+
 
 *Data types in Python language* 🐍
 ======================
@@ -112,7 +120,15 @@ THE-WORLD = 10
 kebab-is-nice = 'good'
 ```
 
-## The conventional case used in Python is snake case with lower case for the variables. Keep the name of variables simple and verbose if necessary.
+`The conventional case used in Python is snake case with lower case for the variables. Keep the name of variables simple and verbose if necessary.`
 
+### Case sensitive
+
+Python is a programming language that a variable upper case is not equal a variable lower case.
+```
+alexa not equal Alexa
+
+siri not equal SIRI
+```
 
 ###### ** In this repository, you can watch some list of example of variables for each data type. **
